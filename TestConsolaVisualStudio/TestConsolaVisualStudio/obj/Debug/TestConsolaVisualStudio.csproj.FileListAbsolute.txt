@@ -1,0 +1,12 @@
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.exe.config
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.exe
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.pdb
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.csprojResolveAssemblyReference.cache
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.exe
+c:\users\lnelegat\documents\visual studio 2015\Projects\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.pdb
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.exe.config
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.exe
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.pdb
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.exe
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\bin\Debug\TestConsolaVisualStudio.pdb
+C:\GIT-JESUS2\VStest\TestConsolaVisualStudio\TestConsolaVisualStudio\obj\Debug\TestConsolaVisualStudio.csprojResolveAssemblyReference.cache

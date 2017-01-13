@@ -1,0 +1,53 @@
+﻿@model MvcLeassons.Models.Person
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<form method="post">
+    @Html.DisplayNameFor(M => M.FirstName)
+    <input name="FirstName" value="@Model.FirstName" />
+    @Html.DisplayNameFor(M => M.LastName)
+    <input name="LastName" value="@Model.LastName" />
+    @Html.DisplayNameFor(M => M.BornDate)
+    <input name="BornDate" value="@Model.BornDate" />
+    @Html.DisplayNameFor(M => M.Salary)
+    <input name="Salary" value="@Model.Salary" />
+    <br />
+    @Html.DropDownList("Country", (SelectList)ViewBag.Countries)
+    <br />
+    @Html.DropDownList("State",(SelectList)ViewBag.States)
+    <br />
+    @Html.DropDownListFor(x => x.City.Id,(SelectList)ViewBag.Cities)<br />
+    <input name="Id" value="@Model.Id" type="hidden" />
+    <input type="submit" value="Guardar" />
+    @Html.AntiForgeryToken()
+    
+</form>
+@section scripts {
+    <script type="text/javascript">
+        $('#Country').change(function () {
+            var IdCountry = $('#Country').val();
+            $('#State, #City_Id').html('');
+            $.post("@Url.Content("~/People/GetStates")", { idCountry: IdCountry }, function (states) {
+                $.each(states, function () {
+                       $('#State').append('<option value="' + this.id + '">' + this.name + '</option');
+                })
+            }, "json");
+        });
+
+        $('#State').change(function () {
+            var IdState = $('#State').val();
+            $('#City_Id').html('');
+            $.post("@Url.Content("~/People/GetCities")", { idStates: IdState }, function (cities) {
+                alert("1");
+                $.each(cities, function () {
+                    $('#City').append('<option value="' + this.id + '">' + this.name + '</option');
+                })
+            })
+        })
+
+    </script>
+}

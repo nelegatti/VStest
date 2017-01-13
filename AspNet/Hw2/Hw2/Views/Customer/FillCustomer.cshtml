@@ -1,0 +1,40 @@
+﻿@model Hw2.Models.Customer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FillCustomer</title>
+</head>
+<h1>Fill Customer</h1>
+<body>
+    <div> 
+        <!--<form action="DisplayCustomer" method="post">
+            Ingrese el Nombre:<input name="nombre" type="text" /> <br />
+            Ingrese el Apellido:<input name="apellido" type="text" /> <br />
+            Ingrese la Edad:<input name="edad" type="text" /> <br />
+            <input type="submit" value="Enviar"/>
+        </form>-->
+        @using (Html.BeginForm("DisplayCustomer", "Customer", FormMethod.Post))
+        {
+            <p>
+                @Html.LabelFor(model=> model.nombre,"nombre")
+                @Html.EditorFor(model=>model.nombre)
+            </p> 
+            <p>
+                @Html.LabelFor(model=>model.apellido,"apellido")
+                @Html.EditorFor(model=>model.apellido)
+            </p>
+            <p>
+                @Html.LabelFor(model=>model.edad,"edad")
+                @Html.EditorFor(model=>model.edad)
+            </p>
+            <input type="submit" value="Enviar" />
+        }
+    </div>
+</body>
+</html>

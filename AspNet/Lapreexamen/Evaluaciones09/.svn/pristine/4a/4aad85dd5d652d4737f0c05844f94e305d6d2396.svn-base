@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Evaluaciones09.Models.Vehicle>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<table>
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.LicenseNumber)</th>
+            <th>@Html.DisplayNameFor(m => m.PurchaseDate)</th>
+            <th>@Html.DisplayNameFor(m => m.OdometerValue)</th>
+            <th>@Html.DisplayNameFor(m => m.VehicleModel.Name)</th>
+            <th>@Html.DisplayNameFor(m => m.VehicleModel.VehicleBrand.Name)</th>
+            <th>@Html.DisplayNameFor(m => m.VehicleModel.VehicleClass.Name)</th>
+            <th>@Html.DisplayNameFor(m => m.VehicleStatus.Name)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Evaluaciones09.Models.Vehicle item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m => item.LicenseNumber)</td>
+                <td>@Html.DisplayFor(m => item.PurchaseDate)</td>
+                <td>@Html.DisplayFor(m => item.OdometerValue)</td>
+                <td>@Html.DisplayFor(m => item.VehicleModel.Name)</td>
+                <td>@Html.DisplayFor(m => item.VehicleModel.VehicleBrand.Name)</td>
+                <td>@Html.DisplayFor(m => item.VehicleModel.VehicleClass.Name)</td>
+                <td>@Html.DisplayFor(m => item.VehicleStatus.Name)</td>
+            </tr>
+        }
+</tbody>
+</table>

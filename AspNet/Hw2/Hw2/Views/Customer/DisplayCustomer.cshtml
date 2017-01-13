@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DisplayCustomer</title>
+</head>
+<h1>DisplayCustomer</h1>
+<body>
+    <div>
+        El nombre del Customer es: @Model.nombre<br />
+        El apellido del Customer es: @Model.apellido<br />
+        @if (Model.edad > 18)
+        {
+            <p>Customer es mayor de edad</p>
+        }else
+        {
+            <p>El customer es menor de edad</p>
+        }
+
+    </div>
+</body>
+</html>

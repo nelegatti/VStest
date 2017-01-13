@@ -1,0 +1,9 @@
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.exe.config
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.exe
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\bin\Debug\MSMQ.pdb
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.csprojResolveAssemblyReference.cache
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.Form1.resources
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.Properties.Resources.resources
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.csproj.GenerateResource.Cache
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.exe
+c:\users\lnelegat\documents\visual studio 2015\Projects\MSMQ\MSMQ\obj\Debug\MSMQ.pdb

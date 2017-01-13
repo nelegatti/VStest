@@ -1,0 +1,27 @@
+﻿@model MvcLeassons.Models.Person
+
+<h2>Edit Partial</h2>
+
+<form id="person-form"  method="post">
+    @Html.DisplayNameFor(M => M.FirstName)
+    <input name="FirstName" value="@Model.FirstName" />
+    @Html.DisplayNameFor(M => M.LastName)
+    <input name="LastName" value="@Model.LastName" />
+    @Html.DisplayNameFor(M => M.BornDate)
+    <input name="BornDate" value="@Model.BornDate" />
+    @Html.DisplayNameFor(M => M.Salary)
+    <input name="Salary" value="@Model.Salary" />
+    <input name="Id" value="@Model.Id" type="hidden" />
+    <a href="javascript:Save()"> Guardar </a>
+</form>
+
+<script type="text/javascript">
+    function Save()
+    {
+        $.post('EditPartial', $('#person-form').serialize(), function (resp) {
+            alert(resp.message);
+            if (resp.success)
+                window.location.reload();
+        }, 'json');
+    }
+</script>

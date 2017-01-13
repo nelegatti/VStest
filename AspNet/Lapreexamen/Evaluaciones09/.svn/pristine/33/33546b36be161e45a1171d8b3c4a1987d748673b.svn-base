@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Web;
+using Evaluaciones09.Models;
+
+namespace Evaluaciones09
+{
+    public class ModelDbContext : DbContext
+    {
+
+        public ModelDbContext() : base("Server=.\\SQLEXPRESS;Database=Leasson05;user=alumno;password=alumno")
+        {
+
+        }
+
+        public DbSet<Vehicle> Vehicles { get; set; }
+
+    }
+}

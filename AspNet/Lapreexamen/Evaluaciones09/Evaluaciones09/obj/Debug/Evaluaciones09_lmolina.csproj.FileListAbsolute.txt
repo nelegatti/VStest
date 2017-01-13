@@ -1,0 +1,88 @@
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\csc.exe
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\vbc.exe
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\VBCSCompiler.exe
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.dll.config
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.pdb
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Antlr3.Runtime.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\EntityFramework.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\EntityFramework.SqlServer.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Newtonsoft.Json.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Helpers.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Mvc.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Optimization.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Razor.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Deployment.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Razor.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\WebGrease.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\EntityFramework.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\EntityFramework.SqlServer.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Helpers.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Mvc.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Optimization.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.Razor.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Deployment.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Razor.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Antlr3.Runtime.pdb
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\bin\Newtonsoft.Json.xml
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09_lmolina.csprojResolveAssemblyReference.cache
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09.dll
+C:\Users\capacitacion\Documents\Visual Studio 2015\Projects\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09.pdb
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\csc.exe
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\System.Collections.Immutable.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\System.Reflection.Metadata.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\vbc.exe
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\VBCSCompiler.exe
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\roslyn\VBCSCompiler.exe.config
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.dll.config
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Evaluaciones09.pdb
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Antlr3.Runtime.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\EntityFramework.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\EntityFramework.SqlServer.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Newtonsoft.Json.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Helpers.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Mvc.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Optimization.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Razor.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Deployment.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Razor.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\WebGrease.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\EntityFramework.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\EntityFramework.SqlServer.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Helpers.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Mvc.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Optimization.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.Razor.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Deployment.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\System.Web.WebPages.Razor.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Antlr3.Runtime.pdb
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\bin\Newtonsoft.Json.xml
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09_lmolina.csprojResolveAssemblyReference.cache
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09.dll
+C:\GIT-JESUS2\VStest\AspNet\Lapreexamen\Evaluaciones09\Evaluaciones09\obj\Debug\Evaluaciones09.pdb

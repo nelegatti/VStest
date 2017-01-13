@@ -1,0 +1,206 @@
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\csc.exe
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\System.Collections.Immutable.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\vbc.exe
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe.config
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Leasson06.dll.config
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Leasson06.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Leasson06.pdb
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Antlr3.Runtime.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\EntityFramework.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\EntityFramework.SqlServer.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Web.Infrastructure.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Newtonsoft.Json.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Owin.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Helpers.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Mvc.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Optimization.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Razor.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\WebGrease.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Helpers.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Mvc.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Optimization.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.Razor.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Antlr3.Runtime.pdb
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Newtonsoft.Json.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\EntityFramework.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\EntityFramework.SqlServer.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\obj\Debug\Leasson06.csprojResolveAssemblyReference.cache
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\obj\Debug\Leasson06.dll
+c:\users\capacitacion\documents\visual studio 2015\Projects\Leasson06\Leasson06\obj\Debug\Leasson06.pdb
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\csc.exe
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\vbc.exe
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Leasson06.dll.config
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Leasson06.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Leasson06.pdb
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Antlr3.Runtime.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\EntityFramework.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\EntityFramework.SqlServer.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Newtonsoft.Json.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Owin.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Helpers.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Mvc.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Optimization.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Razor.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\WebGrease.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Helpers.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Mvc.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Optimization.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.Razor.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Antlr3.Runtime.pdb
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Newtonsoft.Json.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\EntityFramework.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\EntityFramework.SqlServer.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\obj\Debug\Leasson06.dll
+C:\Users\gdezaval\Documents\Formacion .net\Leasson06\Leasson06\obj\Debug\Leasson06.pdb
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\csc.exe
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\vbc.exe
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Leasson06.dll.config
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Leasson06.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Leasson06.pdb
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Antlr3.Runtime.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\EntityFramework.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\EntityFramework.SqlServer.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Newtonsoft.Json.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Owin.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Helpers.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Mvc.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Optimization.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Razor.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\WebGrease.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Helpers.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Mvc.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Optimization.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.Razor.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\System.Web.WebPages.Razor.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Antlr3.Runtime.pdb
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Newtonsoft.Json.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\EntityFramework.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\EntityFramework.SqlServer.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\obj\Debug\Leasson06.csprojResolveAssemblyReference.cache
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\obj\Debug\Leasson06.dll
+C:\Users\capacitacion\Desktop\Leasson06\Leasson06\obj\Debug\Leasson06.pdb

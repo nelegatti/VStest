@@ -1,0 +1,43 @@
+﻿@model Evaluaciones09.Models.Vehicle
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<form method="post">
+    @Html.DisplayNameFor(M => M.LicenseNumber)
+    <input name="LicenseNumber" value="@Model.LicenseNumber" />
+    @Html.DisplayNameFor(M => M.PurchaseDate)
+    <input name="PurchaseDate" value="@Model.PurchaseDate" />
+    @Html.DisplayNameFor(M => M.OdometerValue)
+    <input name="OdometerValue" value="@Model.OdometerValue" />
+    <br />
+    @Html.DropDownList("VehicleBrand", (SelectList)ViewBag.VehiclesBrands)
+    <br />
+    @Html.DropDownList("VehicleModel", (SelectList)ViewBag.VehiclesModels)
+    <br />
+    @Html.DropDownList("VehicleStatus", (SelectList)ViewBag.VehiclesStatus)<br />
+    <br />
+    @Html.DisplayNameFor(M => M.VehicleModel.VehicleClass.Name)
+    <text name="VehicleClass" value="@Model.VehicleModel.VehicleClass.Name"
+    <input name="Id" value="@Model.Id" type="hidden" />
+    <input type="submit" value="Guardar" />
+    @Html.AntiForgeryToken()
+
+</form>
+@section scripts {
+    <script type="text/javascript">
+        $('#VehicleBrand').change(function () {
+            var BrandId = $('VehicleBrand').val();
+            $('#VehicleModel, #VehicleStatus,#VehicleClass').html('');
+            $.post("@Url.Content("~/Vehicle/GetModels")", { id: BrandId }, function (modelos) {
+                $.each(modelos, function () {
+                       $('#VehicleModel').append('<option value="' + this.id + '">' + this.name + '</option>');
+                })
+            }, "json");
+        });     
+
+    </script>
+}

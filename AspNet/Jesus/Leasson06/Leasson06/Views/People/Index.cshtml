@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MvcLeassons.Models.Person>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<h6>@TempData["Message"]</h6>
+<table>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(M => M.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(M => M.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(M => M.BornDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(M => M.Salary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(MvcLeassons.Models.Person P in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(M => P.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(M => P.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(M => P.BornDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(M => P.Salary)
+                </td>
+                <td>
+                    <a href="@Url.Content("~/People/Edit/" + P.Id)"> Editar </a>
+                    <a href="javascript:EditPartial(@P.Id)"> Editar parcial </a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="edit-div"></div>
+
+<script type="text/javascript">
+    function EditPartial(IdPerson)
+    {
+        $('#edit-div').load('EditPartial?Id='+IdPerson);
+    }
+</script>
